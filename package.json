@@ -23,6 +23,7 @@
   "homepage": "https://github.com/SimonLab/simpleServer#readme",
   "dependencies": {
     "hapi": "^11.1.0",
+    "hapi-auth-google": "^1.0.6",
     "hoek": "^3.0.1"
   },
   "devDependencies": {
